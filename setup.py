@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='torch-locale',
+    name='torch-localize',
     version='0.0.1',
     description='Dimensionality annotations for tensor parameters and return values',
     packages=['torch_localize'],
